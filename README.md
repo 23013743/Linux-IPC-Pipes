@@ -1,5 +1,4 @@
-![image](https://github.com/23013743/Linux-IPC-Pipes/assets/161271714/e36fc26f-1ad4-4869-a388-4d715bb8f76c)# Linux-IPC--Pipes
-Linux-IPC-Pipes
+
 
 
 # Ex03-Linux IPC - Pipes
